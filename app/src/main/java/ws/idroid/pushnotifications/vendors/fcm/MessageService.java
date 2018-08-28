@@ -20,7 +20,11 @@ public class MessageService extends FirebaseMessagingService {
     @Override
     public void onNewToken(String s) {
         super.onNewToken(s);
-        String myEmail = "m.abualzait@gmail.com";
+            updateUserToken(s);
+    }
+
+    private void updateUserToken(String token) {
+        //TODO: upload the value to the database
     }
 
     @Override
