@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1057889922735",
+    "firebase_url": "https://androidcoursepushnotifications.firebaseio.com",
+    "project_id": "androidcoursepushnotifications",
+    "storage_bucket": "androidcoursepushnotifications.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1057889922735:android:9ea9896a83706eab",
+        "android_client_info": {
+          "package_name": "ws.idroid.pushnotifications"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1057889922735-36kba2q9dep2qh87siputukdg3h6deja.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ws.idroid.pushnotifications",
+            "certificate_hash": "58deb3ea6cb97a616e4c4c318e869c33d1f5bf8f"
+          }
+        },
+        {
+          "client_id": "1057889922735-3nltoq4m8ucbr8iids5rnl1k55g888la.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbAUPH99kNcuRMTXocjDx98mCSjyBeJd8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1057889922735-3nltoq4m8ucbr8iids5rnl1k55g888la.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
